@@ -1,2 +1,2 @@
 # Fila-A
-Creando repositorio para laboratorio final de modelos lineales
+Repositorio creado para albergar todo el material necesario para el laboratorio final de Modelos Lineales.
